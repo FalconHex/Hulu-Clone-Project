@@ -11,8 +11,8 @@ Built using:
 
 Check out my hosted site: https://hulu-clone-falconhex.vercel.app
   
-**Some files has been modified for security reasons: {.env.local}  
+**Some files has been modified for security reasons 
 you may refer: https://youtu.be/MqDlsjc8GLo for full tutorial**  
 
-**This build was made by reffering to :  
+**This build was made by referring to :  
 Sonny Sangha yt Channel**
