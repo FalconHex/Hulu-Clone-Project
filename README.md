@@ -1,5 +1,11 @@
 # Hulu-Clone-Project
 
+
+
+https://user-images.githubusercontent.com/68680026/142035196-4f72f305-9ef8-4609-b062-e0ce0132f2c1.mp4
+
+
+
 This is a Simple but Highly responsive WebDev project: Hulu Clone.
 
 ## Built using:  
